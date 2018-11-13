@@ -1,0 +1,14 @@
+body {
+  height: 100vh;
+}
+.container {
+  height: 100%;
+  padding: 20px 0 0; 
+}
+.container ol {
+  padding: 0;
+}
+#news img {
+  width: 400px;
+  height: auto;
+}
